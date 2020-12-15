@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: NA
-// Engineer: akiss
+// Engineer: akissu
 // 
 // Create Date: 12/02/2020 07:36:53 PM
 // Design Name: blinky
